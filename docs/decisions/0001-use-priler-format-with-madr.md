@@ -54,4 +54,4 @@ What is the risk associated with this decison.
 
 ## Links <!-- optional -->
 
-* [https://architecturality.blog/2022/08/19/the-mindset-for-architectural-decisions/] (PRILER acronym).
+* [PRILER acronym](https://architecturality.blog/2022/08/19/the-mindset-for-architectural-decisions/).

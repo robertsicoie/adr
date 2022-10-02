@@ -2,10 +2,10 @@
 
 ## Content
 
-* [docs/templates/template.md] (Decision template)
-* [docs/decisions/] (Sample decisions)
-* [docs/decisions/index.md] (Decisions index.)
-* [.markdownlint.json] (Sample markdownlint configuration file.)
+* [Decision template](docs/templates/template.md)
+* [Sample decisions](docs/decisions/)
+* [Decisions index.](docs/decisions/index.md)
+* [Sample markdownlint configuration file.](.markdownlint.json)
 
 ## Install
 
@@ -25,4 +25,4 @@ To use this sample repo install depencies by running `npm install`
 
 ## Links
 
-* [https://adr.github.io/] (Homepage of the ADR GitHub organization)
+* [Homepage of the ADR GitHub organization](https://adr.github.io/)
