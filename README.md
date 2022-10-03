@@ -14,7 +14,7 @@ To use this sample repo install depencies by running `npm install`
 ## How to create new ADR
 
 1. Create a copy of the template file:
-```cp docs/templates/template.md docs/decisions/NNNN-decide-to```
+```cp docs/templates/template.md docs/decisions/NNNN-decision-title.md```
 1. Add details.
 1. Run adr-log to regenerate index.
 ```cd docs/decisions && adr-log -i```
